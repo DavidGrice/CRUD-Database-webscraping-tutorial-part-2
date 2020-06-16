@@ -19,4 +19,4 @@
 ### PLEASE NOTE
 #### You MUST first scrape the web before accessing the database, otherwise the program will not work. I am going to try and implement better code changes as time goes on, in addition to adding mroe SQL-queries in the next tutorial.
 
-Youtube video link:
+Youtube video link: https://youtu.be/89Okjb-T_BM
