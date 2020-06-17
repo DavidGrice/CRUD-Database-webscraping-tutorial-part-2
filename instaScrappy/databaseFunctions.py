@@ -127,7 +127,7 @@ def accountMenu(curs, conn, instagram_holder):
             updateTableInfo(curs, conn, instagram_holder)
         elif (menuSelection == 'retrieve'):
             # RETIREVE TABLE INFO
-            retrieveTableInfo(curs, instagram_holder)
+            retrieveTableInfo(conn, instagram_holder)
         elif(menuSelection == 'return'):
             # RETURN TO MAIN MENU
             return False
